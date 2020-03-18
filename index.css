@@ -5,7 +5,7 @@ body{
   font-family: 'Roboto Condensed', sans-serif;
 }
 header{
-  background: url("../images/verdure header.jpg");
+  background: url("verdure header.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   height: 700px;
@@ -51,7 +51,7 @@ text-align: center;
 }
 
 .home{
-  background: url("../images/home-2background.jpg");
+  background: url("home-2background.jpg");
   color: white;
   height: 350px;
 }
@@ -120,7 +120,7 @@ span:hover {
   padding: 0px;
 }
 .coffee{
-  background: url("../images/home-2background.jpg");
+  background: url("home-2background.jpg");
   color: white;
   height: 350px;
   width: 900px;
